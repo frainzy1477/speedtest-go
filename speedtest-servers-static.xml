@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-<servers><server url="http://tpv3-1.speedtest.idv.tw:8080/speedtest/upload.php" lat="25.0333" lon="121.5333" name="Taipei" country="Taiwan" cc="TW" sponsor="Chief Telecom" id="3967"  host="tpv3-1.speedtest.idv.tw:8080" />
+<servers>
+<server url="http://tpv3-1.speedtest.idv.tw:8080/speedtest/upload.php" lat="25.0333" lon="121.5333" name="Taipei" country="Taiwan" cc="TW" sponsor="Chief Telecom" id="3967"  host="tpv3-1.speedtest.idv.tw:8080" />
 <server url="http://tp1.chtm.hinet.net:8080/speedtest/upload.php" lat="25.0333" lon="121.5333" name="Taipei" country="Taiwan" cc="TW" sponsor="Chunghwa Mobile" id="18445"  host="tp1.chtm.hinet.net:8080" />
 <server url="http://spttp1.taiwanmobile.com:8080/speedtest/upload.php" lat="25.0333" lon="121.5333" name="Taipei" country="Taiwan" cc="TW" sponsor="Taiwan Mobile" id="11703"  host="spttp1.taiwanmobile.com:8080" />
 <server url="http://tfnst01.tfn.net.tw:8080/speedtest/upload.php" lat="25.0333" lon="121.5333" name="Taipei" country="Taiwan" cc="TW" sponsor="Taiwan Fixed Network" id="2133"  host="tfnst01.tfn.net.tw:8080" />
